@@ -1,0 +1,12 @@
+{
+	enableMaxTradeOverride: false,
+	maxTradesOverrideAmount: -1,
+	enableDemandBonus: true,
+	enableGlobalReputation: false,
+	enableBadReputation: true,
+	enableConversionTimeOverride: false,
+	conversionTime: 3600,
+	forceVillagerConversion: false,
+	displayConversionTime: false,
+	enableEmeraldTemptation: false
+}

@@ -1,0 +1,1325 @@
+{
+  "allowedCrops": [
+    {
+      "seed": "minecraft:wheat_seeds",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:wheat",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        },
+        {
+          "item": "minecraft:wheat_seeds",
+          "count": {
+            "min": 1,
+            "max": 2
+          },
+          "chance": 0.5
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:beetroot_seeds",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:beetroot",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        },
+        {
+          "item": "minecraft:beetroot_seeds",
+          "count": {
+            "min": 1,
+            "max": 2
+          },
+          "chance": 0.5
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:carrot",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:carrot",
+          "count": {
+            "min": 2,
+            "max": 5
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:potato",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:potato",
+          "count": {
+            "min": 2,
+            "max": 5
+          },
+          "chance": 1.0
+        },
+        {
+          "item": "minecraft:poisonous_potato",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 0.02
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:melon_seeds",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:melon_slice",
+          "count": {
+            "min": 3,
+            "max": 7
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:pumpkin_seeds",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:pumpkin",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:sugar_cane",
+      "validSoils": [
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:sand",
+        "minecraft:red_sand"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:sugar_cane",
+          "count": {
+            "min": 1,
+            "max": 3
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:cactus",
+      "validSoils": [
+        "minecraft:sand",
+        "minecraft:red_sand"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:cactus",
+          "count": {
+            "min": 1,
+            "max": 3
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:bamboo",
+      "validSoils": [
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "farmersdelight:rich_soil",
+        "farmersdelight:organic_compost"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:bamboo",
+          "count": {
+            "min": 2,
+            "max": 4
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:sweet_berries",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland",
+        "farmersdelight:rich_soil",
+        "farmersdelight:organic_compost"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:sweet_berries",
+          "count": {
+            "min": 2,
+            "max": 4
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:nether_wart",
+      "validSoils": [
+        "minecraft:soul_sand"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:nether_wart",
+          "count": {
+            "min": 1,
+            "max": 3
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:chorus_flower",
+      "validSoils": [
+        "minecraft:end_stone"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:chorus_fruit",
+          "count": {
+            "min": 1,
+            "max": 3
+          },
+          "chance": 1.0
+        },
+        {
+          "item": "minecraft:chorus_flower",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 0.02
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:kelp",
+      "validSoils": [
+        "minecraft:mud"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:kelp",
+          "count": {
+            "min": 1,
+            "max": 2
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:brown_mushroom",
+      "validSoils": [
+        "minecraft:mycelium",
+        "minecraft:podzol",
+        "farmersdelight:rich_soil",
+        "farmersdelight:organic_compost"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:brown_mushroom",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:red_mushroom",
+      "validSoils": [
+        "minecraft:mycelium",
+        "minecraft:podzol",
+        "farmersdelight:rich_soil",
+        "farmersdelight:organic_compost"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:red_mushroom",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:cocoa_beans",
+      "validSoils": [
+        "minecraft:jungle_log",
+        "minecraft:jungle_wood",
+        "minecraft:stripped_jungle_log",
+        "minecraft:stripped_jungle_wood"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:cocoa_beans",
+          "count": {
+            "min": 1,
+            "max": 3
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:pitcher_pod",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:pitcher_plant",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:torchflower_seeds",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:torchflower",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:allium",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:allium",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:azure_bluet",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:azure_bluet",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:blue_orchid",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:blue_orchid",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:cornflower",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:cornflower",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:dandelion",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:dandelion",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:lily_of_the_valley",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:lily_of_the_valley",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:oxeye_daisy",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:oxeye_daisy",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:poppy",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:poppy",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:red_tulip",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:red_tulip",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:orange_tulip",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:orange_tulip",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:white_tulip",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:white_tulip",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:pink_tulip",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:pink_tulip",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:wither_rose",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:wither_rose",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:lilac",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:lilac",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:peony",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:peony",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:rose_bush",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:rose_bush",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "minecraft:sunflower",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "minecraft:sunflower",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "farmersdelight:cabbage_seeds",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "farmersdelight:cabbage",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        },
+        {
+          "item": "farmersdelight:cabbage_seeds",
+          "count": {
+            "min": 1,
+            "max": 2
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "farmersdelight:tomato_seeds",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "farmersdelight:tomato",
+          "count": {
+            "min": 1,
+            "max": 2
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "farmersdelight:onion",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "farmersdelight:onion",
+          "count": {
+            "min": 1,
+            "max": 3
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "ars_nouveau:magebloom_crop",
+      "validSoils": [
+        "minecraft:farmland",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland"
+      ],
+      "drops": [
+        {
+          "item": "ars_nouveau:magebloom",
+          "count": {
+            "min": 1,
+            "max": 1
+          },
+          "chance": 1.0
+        }
+      ]
+    },
+    {
+      "seed": "ars_nouveau:sourceberry_bush",
+      "validSoils": [
+        "minecraft:farmland",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:mud",
+        "minecraft:moss_block",
+        "minecraft:muddy_mangrove_roots",
+        "mysticalagriculture:inferium_farmland",
+        "mysticalagriculture:prudentium_farmland",
+        "mysticalagriculture:tertium_farmland",
+        "mysticalagriculture:imperium_farmland",
+        "mysticalagriculture:supremium_farmland",
+        "mysticalagradditions:insanium_farmland",
+        "justdirethings:goosoil_tier1",
+        "justdirethings:goosoil_tier2",
+        "justdirethings:goosoil_tier3",
+        "justdirethings:goosoil_tier4",
+        "farmersdelight:rich_soil_farmland",
+        "farmersdelight:organic_compost",
+        "farmersdelight:rich_soil"
+      ],
+      "drops": [
+        {
+          "item": "ars_nouveau:sourceberry_bush",
+          "count": {
+            "min": 2,
+            "max": 4
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "allowedSoils": [
+    {
+      "soil": "minecraft:dirt",
+      "growthModifier": 0.475
+    },
+    {
+      "soil": "minecraft:coarse_dirt",
+      "growthModifier": 0.475
+    },
+    {
+      "soil": "minecraft:podzol",
+      "growthModifier": 0.475
+    },
+    {
+      "soil": "minecraft:mycelium",
+      "growthModifier": 0.475
+    },
+    {
+      "soil": "minecraft:mud",
+      "growthModifier": 0.5
+    },
+    {
+      "soil": "minecraft:muddy_mangrove_roots",
+      "growthModifier": 0.5
+    },
+    {
+      "soil": "minecraft:rooted_dirt",
+      "growthModifier": 0.475
+    },
+    {
+      "soil": "minecraft:moss_block",
+      "growthModifier": 0.475
+    },
+    {
+      "soil": "minecraft:farmland",
+      "growthModifier": 0.5
+    },
+    {
+      "soil": "minecraft:sand",
+      "growthModifier": 0.5
+    },
+    {
+      "soil": "minecraft:red_sand",
+      "growthModifier": 0.5
+    },
+    {
+      "soil": "minecraft:grass_block",
+      "growthModifier": 0.475
+    },
+    {
+      "soil": "minecraft:soul_sand",
+      "growthModifier": 0.5
+    },
+    {
+      "soil": "minecraft:end_stone",
+      "growthModifier": 0.5
+    },
+    {
+      "soil": "minecraft:jungle_log",
+      "growthModifier": 0.5
+    },
+    {
+      "soil": "minecraft:jungle_wood",
+      "growthModifier": 0.5
+    },
+    {
+      "soil": "minecraft:stripped_jungle_log",
+      "growthModifier": 0.5
+    },
+    {
+      "soil": "minecraft:stripped_jungle_wood",
+      "growthModifier": 0.5
+    },
+    {
+      "soil": "farmersdelight:rich_soil",
+      "growthModifier": 0.525
+    },
+    {
+      "soil": "farmersdelight:rich_soil_farmland",
+      "growthModifier": 0.525
+    },
+    {
+      "soil": "farmersdelight:organic_compost",
+      "growthModifier": 0.525
+    },
+    {
+      "soil": "justdirethings:goosoil_tier1",
+      "growthModifier": 0.575
+    },
+    {
+      "soil": "justdirethings:goosoil_tier2",
+      "growthModifier": 0.75
+    },
+    {
+      "soil": "justdirethings:goosoil_tier3",
+      "growthModifier": 1.0
+    },
+    {
+      "soil": "justdirethings:goosoil_tier4",
+      "growthModifier": 1.5
+    }
+  ]
+}
