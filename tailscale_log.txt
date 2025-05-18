@@ -1,12 +1,11 @@
-2025/05/18 23:39:36 logtail started
-2025/05/18 23:39:36 Program starting: v1.80.2-t62b8bf6a0-g3c35ee987, Go 1.23.5: []string{"./tailscaled"}
-2025/05/18 23:39:36 LogID: 77d7a5ca557bdf0db24d12cd26e164c0ba96f38dc3079ed950c0bda471eefb45
-2025/05/18 23:39:36 logpolicy: using system state directory "/var/lib/tailscale"
-2025/05/18 23:39:36 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [127.0.0.53 168.63.129.16]
-2025/05/18 23:39:36 dns: [rc=resolved resolved=not-in-use ret=direct]
-2025/05/18 23:39:36 dns: using "direct" mode
-2025/05/18 23:39:36 dns: using *dns.directManager
-2025/05/18 23:39:36 dns: inotify addwatch: context canceled
-2025/05/18 23:39:36 flushing log.
-2025/05/18 23:39:36 logger closing down
-2025/05/18 23:39:37 safesocket.Listen: /var/run/tailscale/tailscaled.sock: address already in use
+2025/05/18 23:47:31 logtail started
+2025/05/18 23:47:31 Program starting: v1.80.2-t62b8bf6a0-g3c35ee987, Go 1.23.5: []string{"./tailscaled"}
+2025/05/18 23:47:31 LogID: 77d7a5ca557bdf0db24d12cd26e164c0ba96f38dc3079ed950c0bda471eefb45
+2025/05/18 23:47:31 logpolicy: using system state directory "/var/lib/tailscale"
+2025/05/18 23:47:31 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [127.0.0.53 168.63.129.16]
+2025/05/18 23:47:31 dns: [rc=resolved resolved=not-in-use ret=direct]
+2025/05/18 23:47:31 dns: using "direct" mode
+2025/05/18 23:47:31 dns: using *dns.directManager
+2025/05/18 23:47:31 flushing log.
+2025/05/18 23:47:31 logger closing down
+2025/05/18 23:47:32 safesocket.Listen: /var/run/tailscale/tailscaled.sock: address already in use
