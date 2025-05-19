@@ -1124,3 +1124,419 @@
 [19May2025 01:26:31.424] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.7)
 [19May2025 01:26:31.424] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (0 ms)
 [19May2025 01:26:31.872] [modloading-worker-0/INFO] [com.epherical.epherolib.config.CommonConfig/]: Creating default config file: croptopia_v3.conf
+[19May2025 01:26:32.638] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.neoforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[19May2025 01:26:32.711] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[19May2025 01:26:32.727] [modloading-worker-0/INFO] [addonslib/]: AddonsLib Neoforge !
+[19May2025 01:26:32.849] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[19May2025 01:26:32.915] [modloading-worker-0/INFO] [Glassential Renewed/]: Loading Glassential Renewed - NeoForge
+[19May2025 01:26:34.051] [modloading-worker-0/WARN] [supermartijn642corelib/]: Mod 'Chipped' is requesting registration helper for different modid 'rechiseled_chipped'!
+[19May2025 01:26:34.551] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config :emi_loot_config in 877ms
+[19May2025 01:26:34.657] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for industrialforegoingsouls
+[19May2025 01:26:34.728] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[19May2025 01:26:34.957] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[19May2025 01:26:35.232] [modloading-worker-0/OFF] [gobber2/]: gobber2 config settings json5 found
+[19May2025 01:26:35.382] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for mifa
+[19May2025 01:26:35.449] [modloading-worker-0/INFO] [com.alganaut.hominid.Hominid/]: I... am steve
+[19May2025 01:26:36.004] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[19May2025 01:26:36.339] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered mobs_of_mythology config for auto-sync function
+[19May2025 01:26:36.363] [modloading-worker-0/INFO] [STDOUT/]: [com.cursee.monolib.core.sailing.warden.SailingWarden:processDirectoryOrFilePathStrings:22]: No matching files were found.
+[19May2025 01:26:36.492] [modloading-worker-0/INFO] [JamLib/]: Initializing JamLib on NeoForge
+[19May2025 01:26:36.531] [modloading-worker-0/INFO] [STDOUT/]: [net.nicguzzo.wands.config.WandsConfig:load_config:216]: Config updated!
+[19May2025 01:26:36.537] [modloading-worker-0/INFO] [STDOUT/]: [net.nicguzzo.wands.config.WandsConfig:load_config:220]: Config loaded!
+[19May2025 01:26:36.544] [modloading-worker-0/INFO] [net.nicguzzo.wands.WandsMod/]: Has opac!! false
+[19May2025 01:26:36.548] [modloading-worker-0/INFO] [net.nicguzzo.wands.WandsMod/]: Has ftbchunks!! false
+[19May2025 01:26:36.550] [modloading-worker-0/INFO] [net.nicguzzo.wands.WandsMod/]: Has flan!! false
+[19May2025 01:26:37.438] [modloading-worker-0/INFO] [Better Archeology/]: Registering Worldgen/structure Types for Better Archeology
+[19May2025 01:26:37.443] [modloading-worker-0/INFO] [Better Archeology/]: Registering Entity Types for Better Archeology
+[19May2025 01:26:37.446] [modloading-worker-0/INFO] [Better Archeology/]: Registering Enchantments for Better Archeology
+[19May2025 01:26:37.447] [modloading-worker-0/INFO] [Better Archeology/]: Registering Creative Mode Tabs for Better Archeology
+[19May2025 01:26:37.459] [modloading-worker-0/INFO] [Better Archeology/]: Registering Items for Better Archeology
+[19May2025 01:26:37.569] [modloading-worker-0/INFO] [Better Archeology/]: Registering Blocks for Better Archeology
+[19May2025 01:26:37.573] [modloading-worker-0/INFO] [Better Archeology/]: Registering Tags for Better Archeology
+[19May2025 01:26:37.580] [modloading-worker-0/INFO] [Better Archeology/]: Registering Block Entity Types for Better Archeology
+[19May2025 01:26:37.582] [modloading-worker-0/INFO] [Better Archeology/]: Registering Menus for Better Archeology
+[19May2025 01:26:37.596] [modloading-worker-0/INFO] [Better Archeology/]: Registering Recipe Serializers for Better Archeology
+[19May2025 01:26:37.615] [modloading-worker-0/INFO] [Better Archeology/]: Registering Villager Professions for Better Archeology
+[19May2025 01:26:37.618] [modloading-worker-0/INFO] [Better Archeology/]: Registering Events for Better Archeology
+[19May2025 01:26:37.629] [modloading-worker-0/INFO] [Better Archeology/]: Registering Sound Events for Better Archeology
+[19May2025 01:26:37.763] [modloading-worker-0/INFO] [Easy Mob Farm/]: Initializing Easy Mob Farm (NeoForge) ...
+[19May2025 01:26:37.767] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Debug Manager ...
+[19May2025 01:26:37.768] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Detected debug log level for Easy Mob Farm with ALL!
+[19May2025 01:26:37.771] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Adjusting log level for Easy Mob Farm from ALL to INFO, for performance reasons!
+[19May2025 01:26:37.776] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Debug Manager] Add new logger config for Easy Mob Farm with level INFO ...
+[19May2025 01:26:37.778] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Constants ...
+[19May2025 01:26:37.782] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Configuration ...
+[19May2025 01:26:37.783] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Updated configuration path to /workspaces/Nomandus-1.21.1/minecraft_server/config/easy_mob_farm
+[19May2025 01:26:37.784] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering common configuration ...
+[19May2025 01:26:37.787] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Configuration
+
+ This configuration file allows you to define the general settings for the Mob Farms.
+
+ is up to date: {progressingRequiresOwnerToBeOnline=false, luckyDropFarmLuckPercentage=95, tier0progressionUpgradeSpeed=0, tier3progressionUpgradeSpeed=9, tier2progressionUpgradeSpeed=6, tier1progressionUpgradeSpeed=3, experienceDropChance=5, speedEnhancementUpgradeSpeed=6}
+[19May2025 01:26:37.789] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Configuration
+
+ This configuration file allows you to define the general settings for the Mob Capture Cards.
+
+ Allow and Deny list
+ -------------------
+ If you want to allow or deny specific mobs, you can use the allow and deny list.
+ Keep in mind that if you add a mob to the allow list, all other mobs will be denied by default.
+ There are two separate lists for kill and fishing drops.
+
+  Example for allow only specific mobs:
+    mobCaptureCardKillDropAllowList=minecraft:zombie,minecraft:skeleton
+    mobCaptureCardKillDropDenyList=
+    mobCaptureCardFishingDropAllowList=minecraft:cod,minecraft:salmon
+    mobCaptureCardFishingDropDenyList=
+
+  Example for deny specific mobs:
+    mobCaptureCardKillDropAllowList=
+    mobCaptureCardKillDropDenyList=minecraft:ender_dragon,minecraft:wither
+    mobCaptureCardFishingDropAllowList=
+    mobCaptureCardFishingDropDenyList=minecraft:squid,minecraft:turtle
+
+
+ is up to date: {mobCaptureCardFishingDropAllowList=, mobCaptureCardFishingDropChance=0.15, dropMobCaptureCardOnFishing=true, mobCaptureCardFishingDropDenyList=, requirePlayerKill=true, mobCaptureCardKillDropAllowList=, mobCaptureCardKillDropDenyList=, mobCaptureCardKillDropChance=0.1, mobCaptureCardFoilDropChance=0.01, dropMobCaptureCardOnKill=true}
+[19May2025 01:26:37.793] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Rarity Configuration
+
+ This configuration file allows you to define the rarity for the Mob Capture Cards.
+
+ The format is as follows:
+ - <entity_name> = Rarity
+
+ Example:
+ - minecraft:zombie = COMMON
+
+ Supported rarities are:
+  - COMMON
+  - UNCOMMON
+  - RARE
+  - EPIC
+
+ is up to date: {minecraft:blaze=RARE, minecraft:pillager=COMMON, minecraft:zombified_villager=UNCOMMON, minecraft:skeleton=COMMON, minecraft:elder_guardian=EPIC, minecraft:ravager=RARE, minecraft:squid=COMMON, minecraft:ghast=RARE, minecraft:strider=RARE, minecraft:guardian=RARE, minecraft:cow=COMMON, minecraft:vindicator=RARE, minecraft:magma_cube=RARE, minecraft:piglin_brute=EPIC, minecraft:spider=COMMON, minecraft:creeper=COMMON, minecraft:warden=EPIC, minecraft:wither=EPIC, minecraft:horse=COMMON, minecraft:evoker=UNCOMMON, minecraft:slime=UNCOMMON, minecraft:polar_bear=UNCOMMON, minecraft:cat=COMMON, minecraft:bat=COMMON, minecraft:illusioner=EPIC, minecraft:phantom=RARE, minecraft:zombified_piglin=UNCOMMON, minecraft:witch=COMMON, minecraft:wither_skeleton=EPIC, minecraft:fox=UNCOMMON, minecraft:llama=UNCOMMON, minecraft:pig=COMMON, minecraft:husk=UNCOMMON, minecraft:sheep=COMMON, minecraft:ender_dragon=EPIC, minecraft:shulker=RARE, minecraft:cave_spider=UNCOMMON, minecraft:villager=COMMON, minecraft:enderman=UNCOMMON, minecraft:stray=UNCOMMON, minecraft:chicken=COMMON, minecraft:zombie=COMMON, minecraft:drowned=COMMON, minecraft:wolf=COMMON, minecraft:panda=UNCOMMON}
+[19May2025 01:26:37.797] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Catcher Configuration
+
+ This configuration file allows you to define the general settings for the Mob Catcher.
+
+ Allow and Deny list
+ -------------------
+ If you want to allow or deny specific mobs, you can use the allow and deny list.
+ Keep in mind that if you add a mob to the allow list, all other mobs will be denied by default.
+ Additionally mobs on the allow list will be catchable even if their size is bigger than the maximum size.
+
+ Each Mob Catcher has it own allow and deny list, so you can define different settings for each Mob Catcher.
+
+  Example for allow only specific mobs:
+    EnduringCaptureNet:AllowList=minecraft:cow,minecraft:sheep,minecraft:chicken
+
+  Example for deny specific mobs:
+    VoidBindingChain:DenyList=minecraft:endermite,minecraft:ender_dragon,minecraft:wither
+
+
+ is up to date: {EnduringCaptureNet:Enabled=true, VoidBindingChain:MaxEntityHeightToCapture=6.0, EnduringCaptureNet:MaxEntityWidthToCapture=0.9, IronboundContainmentCage:RequiredHealthPercentageToCapture=0.25, EnduringCaptureNet:DenyList=, IronboundContainmentCage:MaxEntityHeightToCapture=2.0, IronboundContainmentCage:Enabled=true, MysticBindingCrystal:AllowList=, IronboundContainmentCage:MaxEntityWidthToCapture=1.5, MysticBindingCrystal:Enabled=true, VoidBindingChain:MaxDurability=16, IronboundContainmentCage:MaxDurability=32, MysticBindingCrystal:MaxEntityWidthToCapture=3.0, MysticBindingCrystal:MaxDurability=32, VoidBindingChain:MaxEntityWidthToCapture=4.0, EnduringCaptureNet:MaxDurability=64, EnduringCaptureNet:AllowList=, VoidBindingChain:AllowList=, IronboundContainmentCage:DenyList=, VoidBindingChain:DenyList=, EnduringCaptureNet:RequiredHealthPercentageToCapture=0.5, MysticBindingCrystal:DenyList=, IronboundContainmentCage:AllowList=, MysticBindingCrystal:MaxEntityHeightToCapture=4.0, MysticBindingCrystal:RequiredHealthPercentageToCapture=0.25, VoidBindingChain:Enabled=true, VoidBindingChain:RequiredHealthPercentageToCapture=0.2, EnduringCaptureNet:MaxEntityHeightToCapture=1.4}
+[19May2025 01:26:37.798] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering server configuration ...
+[19May2025 01:26:37.801] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compatibility Handler ...
+[19May2025 01:26:37.801] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compat Handler ...
+[19May2025 01:26:37.802] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Compat Manager] Farmer's Delight mod with id 'farmersdelight' loaded: true
+[19May2025 01:26:37.802] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ...
+[19May2025 01:26:37.803] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ModExperienceManager
+[19May2025 01:26:37.803] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks ...
+[19May2025 01:26:37.824] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks Entities ...
+[19May2025 01:26:37.826] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Block Items ...
+[19May2025 01:26:37.832] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Items ...
+[19May2025 01:26:37.840] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Menu Types ...
+[19May2025 01:26:37.849] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Mod Data Components ...
+[19May2025 01:26:37.884] [modloading-worker-0/INFO] [owo/]: We don't have to worry about people re-inventing Venezuela glisco, that's their problem for integrating the Bourgeoisie into their pack
+[19May2025 01:26:37.885] [modloading-worker-0/INFO] [oracle_index/]: Hello from the Oracle Wiki Mod!
+[19May2025 01:26:37.955] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config simplyswords:general in 56ms
+[19May2025 01:26:37.967] [modloading-worker-0/INFO] [redstonepen/]: Redstone Pen GIT id #f8a37d5.
+[19May2025 01:26:38.501] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[19May2025 01:26:38.575] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for combatnouveau:main
+[19May2025 01:26:38.604] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config simplyswords:gem_powers in 500ms
+[19May2025 01:26:38.629] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config simplyswords:status_effects in 23ms
+[19May2025 01:26:38.805] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config simplyswords:weapon_attributes in 152ms
+[19May2025 01:26:38.896] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[19May2025 01:26:38.950] [modloading-worker-0/INFO] [factory_api/]: Initializing FactoryAPI!
+[19May2025 01:26:38.954] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing FriendsAndFoesConfig from 'config/friendsandfoes.json'
+[19May2025 01:26:38.973] [modloading-worker-0/INFO] [friendsandfoes/]: Loaded com.faboslav.friendsandfoes.neoforge.platform.PlatformCompat@22159ad for service interface com.faboslav.friendsandfoes.common.platform.PlatformCompat
+[19May2025 01:26:38.974] [modloading-worker-0/INFO] [friendsandfoes/]: Loaded com.faboslav.friendsandfoes.neoforge.platform.PlatformHelper@135a8b10 for service interface com.faboslav.friendsandfoes.common.platform.PlatformHelper
+[19May2025 01:26:38.975] [modloading-worker-0/INFO] [friendsandfoes/]: Loaded com.faboslav.friendsandfoes.neoforge.platform.ProcessorTypes@28bd52c7 for service interface com.faboslav.friendsandfoes.common.platform.ProcessorTypes
+[19May2025 01:26:38.975] [modloading-worker-0/INFO] [friendsandfoes/]: Loaded com.faboslav.friendsandfoes.neoforge.platform.BiomeModifications@5dfdd4b for service interface com.faboslav.friendsandfoes.common.platform.BiomeModifications
+[19May2025 01:26:39.042] [modloading-worker-0/INFO] [Mekanism Unleashed/]: Mekanism Unleashed is loaded, some things may differ from base Mekanism.
+[19May2025 01:26:39.488] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config simplyswords:unique_effects in 500ms
+[19May2025 01:26:39.577] [modloading-worker-0/INFO] [STDOUT/]: [net.sweenus.simplyswords.SimplySwords:init:104]: /workspaces/Nomandus-1.21.1/minecraft_server/config
+[19May2025 01:26:39.616] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for titanium
+[19May2025 01:26:39.663] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for magnumtorch:main
+[19May2025 01:26:40.044] [modloading-worker-0/INFO] [dev.muon.irons_apothic.IronsApothic/]: Loading Iron's Apotheosis Compat
+[19May2025 01:26:40.600] [modloading-worker-0/INFO] [STDOUT/]: [net.valhelsia.valhelsia_core.api.common.item.tab.neoforge.CreativeTabFactoryImpl:create:15]: TEST
+[19May2025 01:26:40.601] [modloading-worker-0/INFO] [STDOUT/]: [net.valhelsia.valhelsia_core.api.common.item.tab.neoforge.CreativeTabFactoryImpl:create:21]: TEST2
+[19May2025 01:26:40.728] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for barteringstation:main
+[19May2025 01:26:41.192] [modloading-worker-0/ERROR] [io.redspace.ironsspellbooks.IronsSpellbooks/]: SpellDiscovery:  net.ender.endersequipment.registries.SpellRegistry, java.lang.ClassCastException: class net.ender.endersequipment.registries.SpellRegistry
+[19May2025 01:26:41.275] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for universalenchants:main
+[19May2025 01:26:41.322] [modloading-worker-0/INFO] [net.permutated.pylons.Pylons/]: Registering mod: pylons
+[19May2025 01:26:41.438] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing YACLConfig from '/workspaces/Nomandus-1.21.1/minecraft_server/config/yacl.json5'
+[19May2025 01:26:41.448] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing VillagerTweaksConfig from '/workspaces/Nomandus-1.21.1/minecraft_server/config/villagertweaks.json5'
+[19May2025 01:26:41.499] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for functionalstorage
+[19May2025 01:26:41.741] [modloading-worker-0/INFO] [dev.tonimatas.packetfixer.PacketFixer/]: Packet Fixer has been initialized successfully
+[19May2025 01:26:41.743] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[19May2025 01:26:41.745] [modloading-worker-0/INFO] [net.tobsend.xtonesreworked.XtonesReworkedMod/]: SETUP Xtones Reworked
+[19May2025 01:26:42.034] [modloading-worker-0/INFO] [AE2 MEGA Things/]: Initializing integration with appmek
+[19May2025 01:26:45.387] [modloading-sync-worker/WARN] [Moonlight/]: Failed to find custom wood type ars_nouveau:yellow_archwood_leaves
+[19May2025 01:26:45.400] [modloading-sync-worker/INFO] [Moonlight/]: Initialized block sets in 37ms
+[19May2025 01:26:47.766] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:adaptable]
+[19May2025 01:26:47.766] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:arctic]
+[19May2025 01:26:47.766] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:dampening]
+[19May2025 01:26:47.767] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:desecrating]
+[19May2025 01:26:47.767] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:enkindling]
+[19May2025 01:26:47.767] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:hasty]
+[19May2025 01:26:47.767] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:infested]
+[19May2025 01:26:47.768] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:knocking]
+[19May2025 01:26:47.768] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:lively]
+[19May2025 01:26:47.768] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:magnetic]
+[19May2025 01:26:47.768] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:molten]
+[19May2025 01:26:47.768] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:paralyzing]
+[19May2025 01:26:47.769] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:plagued]
+[19May2025 01:26:47.769] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:reflective]
+[19May2025 01:26:47.769] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:shielding]
+[19May2025 01:26:47.769] [modloading-sync-worker/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: ResourceKey[champions:affix / champions:wounding]
+[19May2025 01:26:48.605] [modloading-sync-worker/ERROR] [net.minecraft.Util/]: Entity mythsandlegends:imp has no attributes
+[19May2025 01:26:48.605] [modloading-sync-worker/ERROR] [net.minecraft.Util/]: Entity mythsandlegends:imp_clone has no attributes
+[19May2025 01:26:48.605] [modloading-sync-worker/ERROR] [net.minecraft.Util/]: Entity mythsandlegends:possessed_armor has no attributes
+[19May2025 01:26:48.605] [modloading-sync-worker/ERROR] [net.minecraft.Util/]: Entity mythsandlegends:gargoyle has no attributes
+[19May2025 01:26:48.606] [modloading-sync-worker/ERROR] [net.minecraft.Util/]: Entity mythsandlegends:black_charro has no attributes
+[19May2025 01:26:48.606] [modloading-sync-worker/ERROR] [net.minecraft.Util/]: Entity endersequipment:death_knight has no attributes
+[19May2025 01:26:48.689] [modloading-sync-worker/INFO] [Puzzles Lib/]: Dispatching loading event for config easyanvils-common.toml
+[19May2025 01:26:48.728] [modloading-sync-worker/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class PatchouliPlugin
+[19May2025 01:26:48.729] [modloading-sync-worker/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
+[19May2025 01:26:48.731] [modloading-sync-worker/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class PatchouliPlugin
+[19May2025 01:26:48.731] [modloading-sync-worker/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
+[19May2025 01:26:48.736] [modloading-sync-worker/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class PatchouliPlugin
+[19May2025 01:26:48.736] [modloading-sync-worker/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
+[19May2025 01:26:48.740] [modloading-sync-worker/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class PatchouliPlugin
+[19May2025 01:26:48.740] [modloading-sync-worker/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
+[19May2025 01:26:48.741] [modloading-sync-worker/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class PatchouliPlugin
+[19May2025 01:26:48.741] [modloading-sync-worker/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
+[19May2025 01:26:48.778] [modloading-sync-worker/INFO] [com.portingdeadmods.cable_facades.CFMain/]: Config version changed from 0 to 1. Merging changes...
+[19May2025 01:26:48.778] [modloading-sync-worker/INFO] [com.portingdeadmods.cable_facades.CFMain/]: Merged 2 new blocks into config
+[19May2025 01:26:48.806] [modloading-sync-worker/INFO] [com.portingdeadmods.cable_facades.CFMain/]: Downloaded 10 whitelist blocks from GitHub
+[19May2025 01:26:48.809] [modloading-sync-worker/INFO] [com.portingdeadmods.cable_facades.CFMain/]: Downloaded 0 blacklist blocks from GitHub
+[19May2025 01:26:48.812] [modloading-sync-worker/INFO] [com.portingdeadmods.cable_facades.CFMain/]: Downloaded 1 zfighting blocks from GitHub
+[19May2025 01:26:48.893] [modloading-sync-worker/WARN] [com.portingdeadmods.cable_facades.CFMain/]: Failed to download hidden_facaded. HTTP code: 404
+[19May2025 01:26:48.919] [modloading-sync-worker/INFO] [com.blocklogic.agritechtrees.config.AgritechTreesConfig/]: AgritechTreesConfig.loadConfig() invoked.
+[19May2025 01:26:48.923] [modloading-sync-worker/INFO] [com.blocklogic.agritechtrees.config.AgritechTreesConfig/]: Loaded 20 trees and 11 soils from config
+[19May2025 01:26:48.929] [modloading-sync-worker/INFO] [com.blocklogic.agritech.config.AgritechCropConfig/]: AgritechCropConfig.loadConfig() invoked.
+[19May2025 01:26:48.933] [modloading-sync-worker/INFO] [com.blocklogic.agritech.config.AgritechCropConfig/]: Loaded 40 crops and 25 soils from config
+[19May2025 01:26:48.937] [modloading-sync-worker/INFO] [Puzzles Lib/]: Dispatching loading event for config combatnouveau-common.toml
+[19May2025 01:26:48.963] [modloading-worker-0/INFO] [net.alshanex.alshanex_familiars.AlshanexFamiliarsMod/]: Initializing ritual recipes
+[19May2025 01:26:48.970] [modloading-worker-0/INFO] [net.dndats.hackersandslashers.HackersAndSlashers/]: Common setup executed.
+[19May2025 01:26:48.970] [modloading-worker-0/INFO] [PluginManager/]: Executing phase COMMON_SETUP for plugin class PatchouliPlugin
+[19May2025 01:26:48.972] [modloading-worker-0/INFO] [PluginManager/]: Executing phase COMMON_SETUP for plugin class CuriosPlugin
+[19May2025 01:26:49.037] [modloading-worker-0/INFO] [STDOUT/]: [com.tcn.cosmoslibrary.runtime.common.CosmosConsoleManager:printRaw:153]: [01:26:49] [cosmos-thread/STARTUP] [dimensionalpocketsii] [ConsumerEventHandler] [DimensionalPockets]: DimensionalPocketsII Common Setup complete.
+[19May2025 01:26:49.043] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[19May2025 01:26:49.097] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Common setup complete.
+[19May2025 01:26:49.134] [modloading-worker-0/INFO] [integrateddynamics/]: Registered packet handler.
+[19May2025 01:26:49.152] [modloading-worker-0/INFO] [com.lootintegrations.LootintegrationsMod/]: lootintegrations mod initialized
+[19May2025 01:26:49.396] [modloading-worker-0/INFO] [STDOUT/]: [com.tcn.cosmoslibrary.runtime.common.CosmosConsoleManager:printRaw:153]: [01:26:49] [cosmos-thread/STARTUP] [cosmosportals] [ConsumerEventHandler] [CosmosPortals]: CosmosPortals Common Setup complete.
+[19May2025 01:26:49.396] [modloading-worker-0/INFO] [STDOUT/]: [com.tcn.cosmoslibrary.runtime.common.CosmosConsoleManager:printRaw:153]: [01:26:49] [cosmos-thread/STARTUP] [cosmoslibrary] [ConsumerEventHandler] [CosmosLibrary]: CosmosLibrary Common Setup complete.
+[19May2025 01:26:49.427] [modloading-worker-0/INFO] [net.veroxuniverse.samurai_dynasty.SamuraiDynastyMod/]: HELLO FROM COMMON SETUP
+[19May2025 01:26:49.629] [modloading-worker-0/INFO] [integrateddynamicscompat/]: Registered packet handler.
+[19May2025 01:26:49.634] [modloading-worker-0/INFO] [bygone/]: Bygone: Strippables registered!
+[19May2025 01:26:49.661] [modloading-worker-0/INFO] [com.fxd927.ae2tweaks.AE2Tweaks/]: HELLO FROM COMMON SETUP
+[19May2025 01:26:49.672] [modloading-worker-0/INFO] [STDOUT/]: [toni.lib.TxniLib:onInitialize:75]: TxniLib onInitialize!
+[19May2025 01:26:49.728] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.7.14 initializing...
+[19May2025 01:26:49.736] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 21.1.0 Target: null
+[19May2025 01:26:49.741] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [projecte] Starting version check at https://raw.githubusercontent.com/sinkillerj/ProjectE/mc1.21.1/update.json
+[19May2025 01:26:49.762] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Initialized HolidayManager.
+[19May2025 01:26:49.839] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[19May2025 01:26:49.840] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[19May2025 01:26:49.840] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[19May2025 01:26:49.872] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [projecte] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[19May2025 01:26:49.876] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [forgeendertech] Starting version check at https://forge.curseupdate.com/244844/forgeendertech
+[19May2025 01:26:50.015] [modloading-worker-0/INFO] [dev.muon.irons_apothic.IronsApothic/]: Registering custom affix codecs...
+[19May2025 01:26:50.023] [modloading-worker-0/INFO] [Modular Routers/]: Modular Routers is loading!
+[19May2025 01:26:50.044] [modloading-worker-0/INFO] [dev.muon.irons_apothic.IronsApothic/]: Custom affix codecs registered.
+[19May2025 01:26:50.239] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [forgeendertech] Found status: AHEAD Current: 12.0.1.0 Target: null
+[19May2025 01:26:50.240] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [maxhealthfix] Starting version check at https://updates.blamejared.com/get?n=maxhealthfix&gv=1.21.1&ml=neoforge
+[19May2025 01:26:50.456] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [maxhealthfix] Found status: BETA Current: 21.1.4 Target: 21.1.4
+[19May2025 01:26:50.456] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [guardvillagers] Starting version check at https://api.modrinth.com/updates/H1sntfo8/forge_updates.json
+[19May2025 01:26:50.945] [modloading-sync-worker/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[19May2025 01:26:50.963] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [guardvillagers] Found status: BETA Current: 2.3.2 Target: null
+[19May2025 01:26:50.963] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [prickle] Starting version check at https://updates.blamejared.com/get?n=prickle&gv=1.21.1&ml=neoforge
+[19May2025 01:26:50.997] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [prickle] Found status: BETA Current: 21.1.6 Target: 21.1.6
+[19May2025 01:26:51.000] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_lukis_crazychambers] Starting version check at https://api.modrinth.com/updates/JeZoobNU/forge_updates.json?neoforge=only
+[19May2025 01:26:51.105] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_lukis_crazychambers] Found status: OUTDATED Current: 1.0 Target: 1.0+mod
+[19May2025 01:26:51.106] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json?neoforge=only
+[19May2025 01:26:51.139] [modloading-sync-worker/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[19May2025 01:26:51.152] [modloading-sync-worker/INFO] [Easy Mob Farm/]: Easy Mob Farm Mob Capture Data Component easy_mob_farm:mob_capture_data ...
+[19May2025 01:26:51.152] [modloading-sync-worker/INFO] [Easy Mob Farm/]: Easy Mob Farm Mob Farm Data Component easy_mob_farm:mob_farm_data ...
+[19May2025 01:26:51.220] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
+[19May2025 01:26:51.220] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [codechickenlib] Starting version check at https://version-check.covers1624.net/check/?mod=CodeChickenLib&mc=1.21.1
+[19May2025 01:26:51.359] [modloading-sync-worker/INFO] [Moonlight/]: Initialized color sets in 197ms
+[19May2025 01:26:51.500] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Dedicated server setup complete.
+[19May2025 01:26:51.505] [modloading-worker-0/INFO] [org.anti_ad.mc.common.LogBase/]: [libIPN] Server starting...
+[19May2025 01:26:51.552] [modloading-sync-worker/INFO] [STDOUT/]: [com.tcn.cosmoslibrary.runtime.common.CosmosConsoleManager:printRaw:153]: [01:26:51] [cosmos-thread/STARTUP] [dimensionalpocketsii] [EventBus] [PocketsRegistrationManager]: Capability registration complete...
+[19May2025 01:26:51.692] [modloading-sync-worker/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Block Capabilities for Easy Mob Farm
+[19May2025 01:26:51.764] [modloading-sync-worker/INFO] [net.creeperhost.polylib.PolyLib/]: =====Registering Capabilities=====
+[19May2025 01:26:51.770] [modloading-sync-worker/INFO] [net.creeperhost.polylib.PolyLib/]: Adding EnergyStore Item to item.shrink.shrinking_device
+[19May2025 01:26:52.119] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[19May2025 01:26:52.146] [modloading-worker-0/INFO] [AttributeFix/]: Changing maximum value for minecraft:generic.armor from 200.0 to 1000000.0.
+[19May2025 01:26:52.153] [modloading-worker-0/INFO] [AttributeFix/]: Changing maximum value for minecraft:generic.armor_toughness from 100.0 to 1000000.0.
+[19May2025 01:26:52.153] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [codechickenlib] Found status: UP_TO_DATE Current: 4.6.0.521 Target: null
+[19May2025 01:26:52.153] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[19May2025 01:26:52.158] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 21.1.0 Target: null
+[19May2025 01:26:52.158] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[19May2025 01:26:52.159] [modloading-worker-0/INFO] [AttributeFix/]: Changing maximum value for minecraft:generic.attack_damage from 2048.0 to 1000000.0.
+[19May2025 01:26:52.164] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mcwlights] Found status: OUTDATED Current: 1.1.1 Target: 1.1.2
+[19May2025 01:26:52.164] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.21.1&ml=neoforge
+[19May2025 01:26:52.163] [modloading-worker-0/INFO] [AttributeFix/]: Changing maximum value for minecraft:generic.attack_knockback from 5.0 to 1000000.0.
+[19May2025 01:26:52.186] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.1.2 Target: 21.1.2
+[19May2025 01:26:52.186] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/api/mod_update/neoforge/goblintraders
+[19May2025 01:26:52.206] [modloading-worker-0/INFO] [AttributeFix/]: Changing maximum value for minecraft:generic.max_health from 1024.0 to 1000000.0.
+[19May2025 01:26:52.218] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.oierbravo.melter.compat.jade.MelterPlugin
+[19May2025 01:26:52.227] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from moze_intel.projecte.integration.jade.PEJadePlugin
+[19May2025 01:26:52.228] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.blay09.mods.balm.neoforge.compat.hudinfo.NeoForgeJadeModCompat
+[19May2025 01:26:52.228] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from shetiphian.core.self.modintegration.jade.JadePlugin
+[19May2025 01:26:52.229] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from dev.shadowsoffire.apothic_enchanting.compat.EnchJadePlugin
+[19May2025 01:26:52.231] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.nine.travelerscompass.compat.jade.JadeRegistry
+[19May2025 01:26:52.231] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from top.theillusivec4.champions.client.integration.jade.JadePlugin
+[19May2025 01:26:52.232] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from org.cyclops.integrateddynamicscompat.modcompat.jade.JadeIntegratedDynamicsConfig
+[19May2025 01:26:52.236] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.klikli_dev.occultism.integration.waila.OccultismPlugin
+[19May2025 01:26:52.237] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.blay09.mods.cookingforblockheads.compat.NeoForgeJadeCookingForBlockheadsPlugin
+[19May2025 01:26:52.238] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[19May2025 01:26:52.239] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.cathienova.havencobblegens.compat.JadePlugin
+[19May2025 01:26:52.240] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from cy.jdkdigital.productivebees.compat.hwyla.ProductiveBeesWailaPlugin
+[19May2025 01:26:52.242] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.p3pp3rf1y.sophisticatedstorage.compat.jade.StorageJadePlugin
+[19May2025 01:26:52.242] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from shetiphian.platforms.modintegration.jade.JadePlugin
+[19May2025 01:26:52.243] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from de.cadentem.quality_food.compat.jade.JadePlugin
+[19May2025 01:26:52.244] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.untitledduckmod.compat.jade.JadePlugin
+[19May2025 01:26:52.244] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[19May2025 01:26:52.246] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from dev.shadowsoffire.apothic_spawners.compat.SpawnerHwylaPlugin
+[19May2025 01:26:52.247] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from dev.shadowsoffire.apotheosis.compat.AdventureHwylaPlugin
+[19May2025 01:26:52.247] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.vanilla.VanillaPlugin
+[19May2025 01:26:52.264] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.universal.UniversalPlugin
+[19May2025 01:26:52.288] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.debug.DebugPlugin
+[19May2025 01:26:52.288] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.core.CorePlugin
+[19May2025 01:26:52.301] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.access.AccessibilityPlugin
+[19May2025 01:26:52.301] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from appeng.integration.modules.jade.JadeModule
+[19May2025 01:26:52.311] [NeoForge Version Check/WARN] [net.neoforged.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1047) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:982) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.VersionChecker$1.process(VersionChecker.java:167) ~[loader-4.0.39.jar%2359!/:4.0]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.VersionChecker$1.run(VersionChecker.java:105) [loader-4.0.39.jar%2359!/:4.0]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar%2394!/:?]
+	... 6 more
+[19May2025 01:26:52.314] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [projecteintegration] Starting version check at https://raw.githubusercontent.com/TagnumElite/ProjectE-Integration/1.21.x/update.json
+[19May2025 01:26:52.321] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.glodblock.github.appflux.xmod.jade.JadePlugin
+[19May2025 01:26:52.322] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.glodblock.github.extendedae.xmod.jade.JadePlugin
+[19May2025 01:26:52.323] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[19May2025 01:26:52.323] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.buuz135.functionalstorage.compat.jade.FSJadePlugin
+[19May2025 01:26:52.324] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from me.desht.modularrouters.integration.jade.JadeIntegration
+[19May2025 01:26:52.325] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from me.ramidzkh.mekae2.integration.jade.AMJadePlugin
+[19May2025 01:26:52.447] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [projecteintegration] Found status: OUTDATED Current: 8.1.1 Target: 8.1.2
+[19May2025 01:26:52.447] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [adlods] Starting version check at https://forge.curseupdate.com/318833/adlods
+[19May2025 01:26:52.527] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [adlods] Found status: UP_TO_DATE Current: 9.0.0.0 Target: null
+[19May2025 01:26:52.528] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_neoforge.json
+[19May2025 01:26:52.619] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
+[19May2025 01:26:52.619] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
+[19May2025 01:26:52.624] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [forgeconfigapiport] Found status: UP_TO_DATE Current: 21.1.3 Target: null
+[19May2025 01:26:52.624] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integrateddynamics] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/integrated-dynamics.json
+[19May2025 01:26:52.712] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integrateddynamics] Found status: UP_TO_DATE Current: 1.26.0 Target: null
+[19May2025 01:26:52.713] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[19May2025 01:26:52.720] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 21.1.33 Target: 21.1.36
+[19May2025 01:26:52.720] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/cyclops-core.json
+[19May2025 01:26:52.857] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.26.0 Target: null
+[19May2025 01:26:52.857] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[19May2025 01:26:52.863] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 21.1.6 Target: null
+[19May2025 01:26:52.863] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.21.1&ml=neoforge
+[19May2025 01:26:52.884] [modloading-sync-worker/INFO] [STDOUT/]: [com.tcn.cosmoslibrary.runtime.common.CosmosConsoleManager:printRaw:153]: [01:26:52] [cosmos-thread/STARTUP] [dimensionalpocketsii] [EventBus] [PocketPacketManager]: Pocket Network Setup complete.
+[19May2025 01:26:52.887] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [bookshelf] Found status: BETA_OUTDATED Current: 21.1.58 Target: 21.1.62
+[19May2025 01:26:52.891] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore_neoforge.json
+[19May2025 01:26:52.908] [modloading-sync-worker/INFO] [STDOUT/]: [com.tcn.cosmoslibrary.runtime.common.CosmosConsoleManager:printRaw:153]: [01:26:52] [cosmos-thread/STARTUP] [dimensionalpocketsii] [EventBus] [PocketsPacketManager]: Pocket Network Setup complete.
+[19May2025 01:26:52.961] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [uteamcore] Found status: AHEAD Current: 5.6.2.364 Target: null
+[19May2025 01:26:52.961] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [chipped] Starting version check at https://api.modrinth.com/updates/BAscRYKm/forge_updates.json
+[19May2025 01:26:53.064] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [chipped] Found status: BETA Current: 4.0.2 Target: null
+[19May2025 01:26:53.064] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks_neoforge.json
+[19May2025 01:26:53.077] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.2.128 Target: null
+[19May2025 01:26:53.078] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [commoncapabilities] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/common-capabilities.json
+[19May2025 01:26:53.162] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [commoncapabilities] Found status: UP_TO_DATE Current: 2.9.10 Target: null
+[19May2025 01:26:53.162] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[19May2025 01:26:53.166] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
+[19May2025 01:26:53.166] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[19May2025 01:26:53.171] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 21.1.0 Target: null
+[19May2025 01:26:53.171] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_enchanting_infuseraddtreasureenchantements] Starting version check at https://api.modrinth.com/updates/u0YIG3pi/forge_updates.json?neoforge=only
+[19May2025 01:26:53.275] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_enchanting_infuseraddtreasureenchantements] Found status: OUTDATED Current: 1 Target: 1.21.1-v1+mod
+[19May2025 01:26:53.276] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/modupdatejson?id=refurbished_furniture
+[19May2025 01:26:53.288] [NeoForge Version Check/WARN] [net.neoforged.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1047) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:982) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.VersionChecker$1.process(VersionChecker.java:167) ~[loader-4.0.39.jar%2359!/:4.0]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.VersionChecker$1.run(VersionChecker.java:105) [loader-4.0.39.jar%2359!/:4.0]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar%2394!/:?]
+	... 6 more
+[19May2025 01:26:53.289] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[19May2025 01:26:53.299] [NeoForge Version Check/WARN] [net.neoforged.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1047) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:982) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.VersionChecker$1.process(VersionChecker.java:167) ~[loader-4.0.39.jar%2359!/:4.0]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.VersionChecker$1.run(VersionChecker.java:105) [loader-4.0.39.jar%2359!/:4.0]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar%2394!/:?]
+	... 6 more
+[19May2025 01:26:53.300] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [redstonepen] Starting version check at https://raw.githubusercontent.com/stfwi/redstonepen/versions/neoforge-1.21.json
+[19May2025 01:26:53.421] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [redstonepen] Found status: BETA Current: 1.11.42 Target: null
+[19May2025 01:26:53.421] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.21.1&ml=neoforge
+[19May2025 01:26:53.444] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [clumps] Found status: BETA Current: 19.0.0.1 Target: 19.0.0.1
+[19May2025 01:26:53.444] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_lithosphere] Starting version check at https://api.modrinth.com/updates/iv9jp2k9/forge_updates.json?neoforge=only
+[19May2025 01:26:53.528] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19May2025 01:26:53.550] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_lithosphere] Found status: OUTDATED Current: 1.5 Target: 1.5+mod
+[19May2025 01:26:53.550] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [combatnouveau] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/combatnouveau.json
+[19May2025 01:26:53.635] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [combatnouveau] Found status: UP_TO_DATE Current: 21.1.1 Target: null
+[19May2025 01:26:53.636] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [enderstorage] Starting version check at https://version-check.covers1624.net/check/?mod=EnderStorage&mc=1.21.1
+[19May2025 01:26:53.858] [main/WARN] [net.neoforged.neoforge.common.CommonHooks/WP]: The following mods have version differences that were not resolved:
+magistuarmory (version 9.23 -> MISSING)
+Things may not work well.
+[19May2025 01:26:53.884] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Nomandus-1.21.1/minecraft_server/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23423!/assets/.mcassetsroot' uses unexpected schema
+[19May2025 01:26:53.886] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Nomandus-1.21.1/minecraft_server/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23423!/data/.mcassetsroot' uses unexpected schema
+[19May2025 01:26:53.916] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [enderstorage] Found status: UP_TO_DATE Current: 2.13.0.191 Target: null
+[19May2025 01:26:53.916] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [extensibleenums] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/extensibleenums.json
+[19May2025 01:26:54.000] [NeoForge Version Check/WARN] [net.neoforged.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1047) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:982) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.VersionChecker$1.process(VersionChecker.java:167) ~[loader-4.0.39.jar%2359!/:4.0]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.VersionChecker$1.run(VersionChecker.java:105) [loader-4.0.39.jar%2359!/:4.0]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar%2394!/:?]
+	... 6 more
+[19May2025 01:26:54.004] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [magnumtorch] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/magnumtorch.json
+[19May2025 01:26:54.015] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [magnumtorch] Found status: UP_TO_DATE Current: 21.1.0 Target: null
+[19May2025 01:26:54.015] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [ae2wtlib] Starting version check at https://api.modrinth.com/updates/applied-energistics-2-wireless-terminals/forge_updates.json?neoforge=only
