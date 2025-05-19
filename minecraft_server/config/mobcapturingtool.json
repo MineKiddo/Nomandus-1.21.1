@@ -1,7 +1,0 @@
-{
-  "blacklisted_entities": [
-    "minecraft:ender_dragon"
-  ],
-  "blacklisted_mods": [],
-  "enable_dispenser_behaviour": true
-}
