@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -80,12 +74,6 @@
   "aquaculture:recipes/combat/neptunium_sword": {
     "criteria": {
       "has_items": "2025-05-19 14:56:42 +0000"
-    },
-    "done": true
-  },
-  "butcher:firstjoinadvancement": {
-    "criteria": {
-      "firstjoinadvancement_0": "2025-05-19 14:56:43 +0000"
     },
     "done": true
   },
@@ -197,12 +185,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-05-19 14:56:43 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2025-05-19 14:56:42 +0000"
@@ -224,12 +206,6 @@
   "easy_mob_farm:recipes/mob_farm/animal_plains_farm": {
     "criteria": {
       "has_mob_farm_template": "2025-05-19 14:56:42 +0000"
-    },
-    "done": true
-  },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2025-05-19 14:56:43 +0000"
     },
     "done": true
   },
@@ -347,12 +323,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -430,12 +400,6 @@
       "has_journal": "2025-05-19 14:56:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
@@ -515,23 +479,11 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/ritual_warping": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/reset_stable_warp_scroll": {
     "criteria": {
@@ -666,12 +618,6 @@
     },
     "done": true
   },
-  "mobs_of_mythology:mobs_of_mythology": {
-    "criteria": {
-      "requirement": "2025-05-19 14:56:43 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/novice_spell_book": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -696,12 +642,6 @@
     },
     "done": true
   },
-  "mythsandlegends:gargoyle_root": {
-    "criteria": {
-      "root": "2025-05-19 14:56:43 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/alchemical_sourcelink": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -713,12 +653,6 @@
       "has_journal": "2025-05-19 14:56:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_to_sourcestone": {
     "criteria": {
@@ -894,12 +828,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -929,12 +857,6 @@
       "has_journal": "2025-05-19 14:56:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
   },
   "ae2wtlib:recipe/wireless_pattern_access_terminal": {
     "criteria": {
@@ -1013,18 +935,6 @@
       "has_journal": "2025-05-19 14:56:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:56:43 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
@@ -1287,12 +1197,6 @@
     },
     "done": true
   },
-  "morevillagers:root": {
-    "criteria": {
-      "always": "2025-05-19 14:56:43 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/spike_to_dye": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -1427,12 +1331,6 @@
     },
     "done": true
   },
-  "choups_drakvyrn_mod:choups_drakvyrn_mod_advancement": {
-    "criteria": {
-      "choups_drakvyrn_mod_advancement_0": "2025-05-19 14:56:43 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/runic_chalk": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -1458,21 +1356,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/blue_sbed": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
-    },
-    "done": true
-  },
-  "butcher:firstjoinmessage": {
-    "criteria": {
-      "firstjoinmessage_0": "2025-05-19 14:56:43 +0000"
     },
     "done": true
   },
@@ -1701,12 +1587,6 @@
     },
     "done": true
   },
-  "mythsandlegends:possessed_armor_root": {
-    "criteria": {
-      "root": "2025-05-19 14:56:43 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/archwood_door": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -1725,21 +1605,9 @@
     },
     "done": true
   },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2025-05-19 14:56:43 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_moss_block": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:root": {
-    "criteria": {
-      "criteria_0": "2025-05-19 14:57:31 +0000"
     },
     "done": true
   },
@@ -2001,12 +1869,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:56:43 +0000"
-    },
-    "done": false
-  },
   "solonion:recipes/food_book": {
     "criteria": {
       "has_potato": "2025-05-19 14:56:42 +0000",
@@ -2140,12 +2002,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -2185,12 +2041,6 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
-    },
-    "done": true
-  },
-  "occultism:chalks/root": {
-    "criteria": {
-      "always": "2025-05-19 14:56:43 +0000"
     },
     "done": true
   },
@@ -2290,12 +2140,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:59:11 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -2350,12 +2194,6 @@
     },
     "done": true
   },
-  "apotheosis:progression/root": {
-    "criteria": {
-      "tick": "2025-05-19 14:56:43 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -2397,12 +2235,6 @@
       "has_journal": "2025-05-19 14:56:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:56:43 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
@@ -2555,12 +2387,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-19 14:56:43 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 14:56:42 +0000"
@@ -2572,12 +2398,6 @@
       "has_journal": "2025-05-19 14:56:42 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-05-19 14:56:43 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
@@ -2606,12 +2426,6 @@
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_items": "2025-05-19 14:56:42 +0000"
-    },
-    "done": true
-  },
-  "occultism:occultism/root": {
-    "criteria": {
-      "occultism_present": "2025-05-19 14:56:43 +0000"
     },
     "done": true
   },
@@ -2675,6 +2489,186 @@
       "has_journal": "2025-05-19 14:56:42 +0000"
     },
     "done": true
+  },
+  "butcher:firstjoinadvancement": {
+    "criteria": {
+      "firstjoinadvancement_0": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "mobs_of_mythology:mobs_of_mythology": {
+    "criteria": {
+      "requirement": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "mythsandlegends:gargoyle_root": {
+    "criteria": {
+      "root": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 14:56:43 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinmessage": {
+    "criteria": {
+      "firstjoinmessage_0": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "mythsandlegends:possessed_armor_root": {
+    "criteria": {
+      "root": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 14:56:43 +0000"
+    },
+    "done": false
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "tick": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 14:56:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 14:56:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-05-19 14:56:43 +0000"
+    },
+    "done": false
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-05-19 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-05-19 14:57:31 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 15:11:32 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
